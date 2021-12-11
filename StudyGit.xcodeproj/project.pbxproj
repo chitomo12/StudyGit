@@ -13,6 +13,7 @@
 		131A03F32764892500FC2139 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 131A03F22764892500FC2139 /* Preview Assets.xcassets */; };
 		131A03FC27648BAA00FC2139 /* NewFileOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131A03FB27648BAA00FC2139 /* NewFileOne.swift */; };
 		131A040027648FDA00FC2139 /* Secret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 131A03FF27648FDA00FC2139 /* Secret.swift */; };
+		131A04062764C3C000FC2139 /* password.txt in Resources */ = {isa = PBXBuildFile; fileRef = 131A04052764C3C000FC2139 /* password.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		131A03F22764892500FC2139 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		131A03FB27648BAA00FC2139 /* NewFileOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFileOne.swift; sourceTree = "<group>"; };
 		131A03FF27648FDA00FC2139 /* Secret.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Secret.swift; sourceTree = "<group>"; };
+		131A04052764C3C000FC2139 /* password.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = password.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		131A03DF2764892300FC2139 = {
 			isa = PBXGroup;
 			children = (
+				131A04052764C3C000FC2139 /* password.txt */,
 				131A03EA2764892400FC2139 /* StudyGit */,
 				131A03E92764892400FC2139 /* Products */,
 			);
@@ -133,6 +136,7 @@
 			files = (
 				131A03F32764892500FC2139 /* Preview Assets.xcassets in Resources */,
 				131A03F02764892500FC2139 /* Assets.xcassets in Resources */,
+				131A04062764C3C000FC2139 /* password.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
