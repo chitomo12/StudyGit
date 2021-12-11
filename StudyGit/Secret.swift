@@ -9,7 +9,9 @@ import SwiftUI
 
 struct Secret: View {
     var body: some View {
-        Text("16:32")
+        VStack{
+            Text("16:33")
+        }
     }
 }
 
